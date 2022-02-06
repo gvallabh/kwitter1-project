@@ -1,5 +1,4 @@
 
-//ADD YOUR FIREBASE LINKS HERE
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
@@ -7,12 +6,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAKlh_nyBF9GFChV3dU5Sx4g-1Sx__zhAo",
-  authDomain: "kwitter-7e88f.firebaseapp.com",
-  projectId: "kwitter-7e88f",
-  storageBucket: "kwitter-7e88f.appspot.com",
-  messagingSenderId: "947152064934",
-  appId: "1:947152064934:web:d716f41d587ae3a9b0ff67"
+  apiKey: "AIzaSyCrUGFb-MQGTrH95gREaQGEfTYorkfiXC0",
+  authDomain: "kwitter-2-project.firebaseapp.com",
+  projectId: "kwitter-2-project",
+  storageBucket: "kwitter-2-project.appspot.com",
+  messagingSenderId: "289429471838",
+  appId: "1:289429471838:web:1611bc9d4b18d7daeaaacf"
 };
 
 // Initialize Firebase
